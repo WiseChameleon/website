@@ -1,11 +1,14 @@
 sudo: required
 
+services:
+  - docker
+
 cache:
   directories:
     - data/vendor
 
 script:
-- sudo ./run.sh
+- ./run.sh
 
 # Deploy by default on commits to master
 # http://wisechameleon-website.s3-website-us-east-1.amazonaws.com

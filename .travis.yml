@@ -1,5 +1,9 @@
 sudo: required
 
+cache:
+  directories:
+    - data/vendor
+
 script:
 - sudo ./run.sh
 

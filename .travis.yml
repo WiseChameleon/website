@@ -1,0 +1,20 @@
+sudo: required
+
+script:
+- sudo ./run.sh
+
+# Deploy by default on commits to master
+# http://wisechameleon-website.s3-website-us-east-1.amazonaws.com
+deploy:
+  provider: s3
+  bucket: wisechameleon-website
+  skip_cleanup: true
+  region: us-east-1
+  acl: public_read
+  local_dir: data/_site
+  access_key_id: 
+    secure: "DjynnI8Wu/IycIJ5FMJ9iHvmFJs4mSbFQ2Crr/3tlkelckyMCkt8IWPBrXl+y4lIOv74biMraGVfE9/kBKZ5SDD/PIoucKPKwmhk2dmif+IL6mojPnGxLxF9OpJjNbvGFrd3FFayEd3Oigzk5jDgImcugSOas0zAq5Jo25dZ9mU8Jlt3I3CudOjp2Puopq7yydfNSxqpwkNSzuJpttSaFhzlD+fvkvgUpSayXeghMevfKPFv4f/kSiZNcxNTpjIdcxvLPjQD4EZoUk5GNhon8gm1lTNEhTRwsvQBut0qJ5TFH2ykie6r21TxLckbMPIJni45hIQ7C8/eMmbSFi5BvsesuwR4vZDnmvPjqfI0O9xd/Muk3tLD8C7GikdrdaM7wIZXrG1ERWaWOUaOc8Gw60h/711ssPE2OdtNUrRdFCWaQ4JBVO/xBYDjB7+zSxul1Y1Z0wg/j5VTxV1DyzGJ+vJsgBsK0pI1irLHV6g0aOC/C1OYj70KozILDamM06m1hYuWowm0ESPFFw+Xq7BHvc04p9DjzMZZaxADmjhY4QdsfcOgWU60ZqfDoj4fePI1s0xBT3uTzCyZnz4XQ6BNizPol7/YEdfEHCvoxUnwr0fYcUEfQrzW89Mb82KhUSgQWO7vJvLM5Rf7E8/kDzdhuuELLKcy5xSs9ZR5mA1kksc="
+  secret_access_key: 
+    secure: "KoyASTI3aDeA95sKIyxFuorUKDJitVG1P7YofEcRwjW9QbFKWiKqlPONk0QBkFCyBI1UJiAziSL3tX19Gsz1+1NFS1dYafNQIuHdqxdG6ZKm/GMiigh4JawKnI1aBA/XAZtm9lgiyTaFCjxF+0G76/Du+Uvhja8EITwt+a7e/j0hBWd5p2FqR0ViBkGdnUbD/LF6nGc6dfkJ3ttYOkw+H3Uw9fcxZWqkym8MoNnMl5V59pjpDCh6qYQUBPOArt9KBBpgefoZPlvlWL+b3SHjqEOpVWsJOOi9kM/FcZ0InnE+cceNjp7X8bywix3hbrpd8SYvofVAnyG03mPIyoS6yIo1J9pOVEpVw5dTWGHYMZB6FwGDC7IXqXbQvLfhh29scOr3MSRzBE41GNfsZ4XJcSejZh0k4aABaIYpIxwmUYjEtlzc1YB7aeWmrmyyApSsdnU25F0Aq/Qog94ERcCTDUOUXMPzL4obaVUd3z+jrp0QhCfd/8aptZYNo+NmgUKjHncm3KRzh64UNSWS5lmRJWahS4qGFnALp9ZlhHTrZ/mRC+29NVkJNdIDiojvyaL/PwJOLPr9DnueLXnZr5yubO4fTbm84P2u0eSpHfQPr+7wDN3bcnGPwhO+BKshc0rHm+RiwahHAvwchMwDiWnJyD72tSvMWVScpK9wQAUu9z0="
+
+  

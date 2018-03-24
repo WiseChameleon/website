@@ -9,7 +9,6 @@ cache:
 
 script:
 - ./run.sh
-- sleep 60
 
 # Deploy by default on commits to master
 # http://wisechameleon-website.s3-website-us-east-1.amazonaws.com

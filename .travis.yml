@@ -3,9 +3,9 @@ sudo: required
 services:
   - docker
 
-cache:
-  directories:
-    - data/vendor
+# cache:
+#   directories:
+#     - data/vendor
 
 script:
 - ./run.sh

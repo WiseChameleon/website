@@ -10,7 +10,7 @@ DEFAULTS="--rm \
 rm -rf $PWD/data/_site
 
 if [ "$CONTINUOUS_INTEGRATION" = "true" ]; 
-	then docker run -it $DEFAULTS jekyll build; # Just build on Travis; -t for a TTY
+	then docker run -it $DEFAULTS jekyll build; # Just build on Travis; -it is needed 
 else
 	docker run -p 4000:4000 $DEFAULTS jekyll serve; # Serve content for local dev
 fi

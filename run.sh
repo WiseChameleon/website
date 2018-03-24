@@ -3,8 +3,8 @@
 export JEKYLL_VERSION=3.5
 
 DEFAULTS="--rm \
-		  --volume="$PWD/data:/srv/jekyll" \
-  		  --volume="$PWD/data/vendor/bundle:/usr/local/bundle" \
+	  --volume="$PWD/data:/srv/jekyll" \
+  	  --volume="$PWD/data/vendor/bundle:/usr/local/bundle" \
           -it jekyll/jekyll:$JEKYLL_VERSION"
 
 rm -rf $PWD/data/_site

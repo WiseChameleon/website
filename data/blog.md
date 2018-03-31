@@ -11,4 +11,6 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/pic03.jpg" | absolute_url }}" alt="" /></span>
 
-Bicycle rights wolf yuccie shoreditch, fam fingerstache put a bird on it fashion axe mixtape. Kickstarter iceland raclette salvia letterpress XOXO vinyl kinfolk succulents la croix locavore pork belly craft beer vegan. Salvia taxidermy tbh cred, tousled try-hard kombucha austin brooklyn tumblr portland dreamcatcher wolf. Roof party echo park farm-to-table, twee keytar chillwave banjo cornhole tattooed sartorial food truck. Swag tattooed green juice activated charcoal 90's, godard VHS. Cardigan cray blue bottle, pitchfork vegan cloud bread +1 tbh copper mug. Jean shorts post-ironic raclette keytar next level waistcoat, farm-to-table offal lumbersexual adaptogen pug street art lomo neutra green juice.
+Welcome, we like to talk about our products and how we build them on this blog. We also talk about the industry in general, the trends we see, and how we try to stay ahead of the curve by experimenting with next level home automation projects.
+
+If you like what you see please give us some twitter love [@wise_chameleon](https://twitter.com/intent/user?screen_name=wise_chameleon).

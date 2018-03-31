@@ -2,7 +2,7 @@
 layout: post
 title:  "How We Built It"
 date:   2018-03-23
-excerpt: "Want to Build your own?  Here's How."
+excerpt: "Want to build your own?  Here's how."
 image: "/images/pic05.jpg"
 tag:
 - microlearning

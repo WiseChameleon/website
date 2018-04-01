@@ -39,4 +39,4 @@ Want to know how we build it?  Check out the whole video here:
 
 What do you think?  Any adapters you would suggest?
 
-Also the prize for the kickstarter was a whole lot of help bring this product to market through kickstarter assistance.  So signup here to recieve our kickstarter updates, production notifications, and be first on the list for the limited intro pricing when the product launches.
+Like what were doing here?  Signup here to recieve our kickstarter updates, production notifications, and be first on the list for the limited intro pricing when the product launches.

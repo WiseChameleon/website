@@ -27,7 +27,7 @@ And thus Moto was born.
 
 ## So What's Moto
 
-Moto is a voice controlled motor with a suite of adaptors that allows you to turn anything into a smart device. Thanks to the miracle of 3D printing and a little ingenuity we have assembled an ever growing suite of adapters that allow our voice controlled motor to open blinds (by hooki to the wandnd), to turn on switches open / close pet feeders, water plants, and much more.  Oh and its way cheaper than the automaed blinds we were trying to replace.  So wins all arund! 
+Moto is a voice controlled motor with a suite of adaptors that allows you to turn anything into a smart device. Thanks to the miracle of 3D printing and a little ingenuity we have assembled an ever growing suite of adapters that allow our voice controlled motor to open blinds (by attaching to the wand), to turn on switches, open / close pet feeders, water plants, unlock doors and much more.  Oh and its way cheaper than the automated blinds we were trying to replace.  So wins all around! 
 
 Want to see it in action?  Check out the video below (which starts right at the demonstration):
 
@@ -39,4 +39,4 @@ Want to know how we build it?  Check out the whole video here:
 
 What do you think?  Any adapters you would suggest?
 
-Also the prize for the kickstarter was a whole lot of help bring this product to market through kickstarter.  So signup here to recieve our kickstarter updates, production notifications, and be first on the list for the limited / cheaper intro pricing when the product launches.
+Also the prize for the kickstarter was a whole lot of help bring this product to market through kickstarter assistance.  So signup here to recieve our kickstarter updates, production notifications, and be first on the list for the limited intro pricing when the product launches.

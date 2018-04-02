@@ -11,7 +11,7 @@ tag:
 
 We actually document this on hackster.io [here](https://www.hackster.io/wise-chameleon/wise-chameleon-turn-anything-into-a-smart-device).
 
-Unfourtunatly that was thrown together at 2:30AM to meet the contest deadline. You might be able to get through it if you already know what your doing, but if your looking for a bit more guidance we are going to release a series of micro lessons on how we built the project, these will be short to the point and hopefully serve a dual purpose as referenceable IoT Quick Tips sort of thing.
+Unfourtunatly that was thrown together at 2:30AM to meet the contest deadline. You might be able to get through it if you already know what you're doing, but if you're looking for a bit more guidance we are going to release a series of micro lessons on how we built the project. These will be short to the point and hopefully serve a dual purpose as referenceable IoT Quick Tips sort of thing.
 
 Here are a few to get you started, but you can also search for the #microlearning tag on our site to find others.
 

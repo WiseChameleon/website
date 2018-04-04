@@ -4,8 +4,8 @@ name:               Wise Chameleon
 bio:                'Wise Chameleon Bio'
 description:        "Wise Chameleon is a modular solution that allows you to turn anything into a smart home device, including a set of Venetian blinds and a pet feeder."
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://wisechameleon.com/" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -33,7 +33,7 @@ sass:
 
 # Comments
 comments: true
-disqus_shortname:   wisechameleon
+disqus_shortname:   "wisechameleon"
 
 # Social
 analytics-id:       "default"

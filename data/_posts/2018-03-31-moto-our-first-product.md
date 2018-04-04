@@ -4,6 +4,8 @@ title:  "Moto! Our first Product"
 date:   2018-03-31
 excerpt: "Wise Chameleon's Moto is a modular solution that allows you to turn anything into a smart home device, from a set of Venetian blinds to a pet feeder."
 image: "/images/pic02.jpg"
+identifier: "2018-03-31-moto-our-first-product"
+url: "/blog/moto-our-first-product/"
 tag:
 - moto
 - product
@@ -19,15 +21,15 @@ was running an Alexa and Arduino Smart Home Challenge.  While the competition wa
 
 ## The idea
 
-It all started when Koray (our 3D printing guru, and super home automation fanatic) was asked by his wife if we could automated the opening and closing of their blinds.  They have about twenty window blinds in their appartment.  Lookig at the options online Koray quickly realized that he would go broke, (or at least churn up a heafty cc bill) if he went with the options avaliable.  In fact most options were more expensive than the blinds themselves.
+It all started when Koray (our 3D printing guru, and super home automation fanatic) was asked by his wife if we could automated the opening and closing of their blinds.  They have about twenty window blinds in their apartment.  Looking at the options online, Koray quickly realized that he would go broke (or at least churn up a heafty cc bill) if he went with the options avaliable.  In fact, most options were more expensive than the blinds themselves.
 
-Bring this problem up at one of our "beer and brainstorming" sessions. We decided it was both an area ripe for innovation and also not much more exciting than a "smart light switch".  We don't do boring... it's no fun.  So we begin to think about how we could both solve Koray's pressing problem for a reasonable price while at the same time building something next level that could be useful in all kinds of different situations.
+While bringing this problem up at one of our "beer and brainstorming" sessions, we decided it was both an area ripe for innovation and also not much more exciting than a "smart light switch".  We don't do boring... it's no fun.  So we begin to think about how we could both solve Koray's pressing problem for a reasonable price while at the same time building something next level that could be useful in all kinds of different situations.
 
-And thus Moto was born.
+And thus, Moto was born.
 
 ## So What's Moto
 
-Moto is a voice controlled motor with a suite of adaptors that allows you to turn anything into a smart device. Thanks to the miracle of 3D printing and a little ingenuity we have assembled an ever growing suite of adapters that allow our voice controlled motor to open blinds (by attaching to the wand), to turn on switches, open / close pet feeders, water plants, unlock doors and much more.  Oh and its way cheaper than the automated blinds we were trying to replace.  So wins all around! 
+Moto is a voice controlled motor with a suite of adaptors that allows you to turn anything into a smart device. Thanks to the miracle of 3D printing, and a little ingenuity, we have assembled an ever growing suite of adapters that allow our voice controlled motor to: open blinds (by attaching to the wand), turn on switches, open / close pet feeders, water plants, unlock doors, and much more.  Oh, and its way cheaper than the automated blinds we were trying to replace.  So wins all around! 
 
 Want to see it in action?  Check out the video below (which starts right at the demonstration):
 

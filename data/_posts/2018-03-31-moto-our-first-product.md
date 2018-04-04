@@ -4,6 +4,8 @@ title:  "Moto! Our first Product"
 date:   2018-03-31
 excerpt: "Wise Chameleon's Moto is a modular solution that allows you to turn anything into a smart home device, from a set of Venetian blinds to a pet feeder."
 image: "/images/pic02.jpg"
+identifier: "2018-03-31-moto-our-first-product"
+url: "/blog/moto-our-first-product/"
 tag:
 - moto
 - product

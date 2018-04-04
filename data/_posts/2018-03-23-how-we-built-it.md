@@ -4,6 +4,8 @@ title:  "How We Built It"
 date:   2018-03-23
 excerpt: "Want to build your own?  Here's how."
 image: "/images/pic05.jpg"
+identifier: "2018-03-23-how-we-built-it"
+url: "/blog/how-we-built-it/"
 tag:
 - microlearning
 ---

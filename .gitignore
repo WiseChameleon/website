@@ -1,3 +1,4 @@
 data/_site
 data/vendor
 Gemfile.lock
+.DS_Store
